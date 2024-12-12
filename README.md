@@ -1,5 +1,5 @@
 # Ex03 Time Table
-# Date:26.11.2024
+# Date:12.12.2024
 # AIM
 To write a html webpage page to display your slot timetable.
 
@@ -11,18 +11,18 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ## STEP 3
-Create a simple table using <table> tag in html.
+Create a simple table using `<table>` tag in html.
 
 ## STEP 4
-Add header row using <th> tag.
+Add header row using `<th>` tag.
 
 ## STEP 5
-Add your timetable using <td> tag.
+Add your timetable using `<td>` tag.
 
 ## STEP 6
 Execute the program using runserver command.
 
-# PROGRAM:
+# PROGRAM
 ````
 <html lang="en">
 <head>
@@ -147,9 +147,8 @@ Execute the program using runserver command.
         </body>
 </html>
 ````
-
-# OUTPUT:
-![Screenshot 2024-11-26 134144](https://github.com/user-attachments/assets/0f9e3d23-2e00-44f4-b651-c385348228bf)
+# OUTPUT
+![Screenshot 2024-12-12 200550](https://github.com/user-attachments/assets/611fc389-fa13-4055-b158-739a7b0fb036)
 
 
 # RESULT
